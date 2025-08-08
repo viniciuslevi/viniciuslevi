@@ -1,3 +1,4 @@
+
 <!-- Banner opcional -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=1A73E8&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Vinícius+Levi;Engenharia+de+Computação+-+UNIVASF;Backend+e+Software+Embarcado;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG">
@@ -15,6 +16,10 @@
 
 ## 🌐 Conecte-se comigo
 <p align="left">
+  
+  <a href="[https://www.linkedin.com/in/viniciuslevi](https://viniciuslevi.github.io/)" target="_blank">
+  <img src="https://img.shields.io/badge/Web Site-FFFFFF?style=for-the-badge&logo=WebSite&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/viniciuslevi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
