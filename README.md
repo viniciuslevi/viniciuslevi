@@ -17,7 +17,7 @@
 ## 🌐 Conecte-se comigo
 <p align="left">
   
-  <a href="[https://www.linkedin.com/in/viniciuslevi](https://viniciuslevi.github.io/)" target="_blank">
+  <a href="https://viniciuslevi.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Web Site-FFFFFF?style=for-the-badge&logo=WebSite&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/viniciuslevi" target="_blank">
